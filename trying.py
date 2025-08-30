@@ -1,3 +1,3 @@
-print('testing my GitHub connection to VSCode')
+print('testing my GitHub connection to VSCode V2')
 
 
